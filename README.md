@@ -1,2 +1,1 @@
-
-js obfuscate: https://www.jshaman.com/index.html
+js obfuscator: https://obfuscator.io/legacy-playground
